@@ -39,27 +39,35 @@ RAG Assistant allows users to upload a PDF document and ask questions about its 
 PDF Upload
 
    ↓
+
 Text Extraction
 
    ↓
+
 Text Chunking
 
    ↓
+
 Sentence Transformer Embeddings
 
    ↓
+
 FAISS Vector Index
 
    ↓
+   
 Semantic Retrieval
 
    ↓
+
 Relevant Context
 
    ↓
+
 Groq LLM
 
-   ↓
+   
+   
 Generated Answer
 
 ## Tech Stack
