@@ -21,6 +21,17 @@ RAG Assistant allows users to upload a PDF document and ask questions about its 
 - Source chunk inspection
 - Configurable retrieval settings
 
+## Application Screenshots
+
+### Main Interface
+![RAG Assistant](screenshots/home.png)
+
+### Question Answering
+![AI Answer](screenshots/chat.png)
+
+### Retrieved Sources
+![Sources](screenshots/sources.png)
+
 ## Architecture
 
 PDF Upload
