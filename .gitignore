@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# RAG generated files
+*.faiss
+*.pkl
+*.pickle
+
+# Hugging Face cache
+.cache/
