@@ -66,7 +66,7 @@ Relevant Context
 
 Groq LLM
 
-   
+   ↓
    
 Generated Answer
 
